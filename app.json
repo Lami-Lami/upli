@@ -1,10 +1,10 @@
 {
-  "name": "Uploader X Bot",
-  "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
-  "keywords": [ "URL UPLOADER"],
+  "name": "Upli",
+  "description": "Telegram Bot to Upli",
+  "keywords": [ "URL"],
   "success_url": "https://t.me/Uploader_X_bot",
   "website": "https://github.com/Clinton-Abraham",
-  "repository": "https://github.com/Clinton-Abraham/UPLOADER-BOT",
+  "repository": "https://github.com/Lami-Lami/Upli",
 
   "env": {
     "WEBHOOK": {"description": "Setting this to ANYTHING will enable webhooks when in env mode",
